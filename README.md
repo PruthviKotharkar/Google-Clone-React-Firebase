@@ -1,4 +1,4 @@
-Google Clone made with React & Firebase.
+Google Clone made with React & deployed with Firebase
 
 It is the exact clone and has the primary features just
 like the original Google.
